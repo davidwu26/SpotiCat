@@ -16,3 +16,4 @@ Retrieves a cat breed's characteristics (affection level etc.) from the Cat API 
 - HTML and Style sheet.
 
 ## Demo
+![alt text](https://github.com/davidyxwu/SpotiCat/blob/master/media/demo.gif)
